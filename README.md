@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruan ============================================================================================================================  Computer Science Student ------------------------  My name is Ruan and I'm a student at the University of Western Australia, completing a Bachelors of Advanced Computer Science. I'm majoring in Artificial Intelligence and have recently begun exploring web development through The Odin project. I'm continuing to build my portfolio in both areas of webdev and AI.  * 🌍  I'm based in Perth, Western Australia * ✉️  You can contact me at [ruan.alberts@outlook.com](mailto:ruan.alberts@outlook.com) * 🧠  I'm learning Full Stack Web Development
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruan   
+=========================
+Computer Science Student 
+------------------------  
+My name is Ruan and I'm a student at the University of Western Australia, completing a Bachelors of Advanced Computer Science. I'm majoring in Artificial Intelligence and have recently begun exploring web development through The Odin project. I'm continuing to build my portfolio in both areas of webdev and AI.  
+* 🌍  I'm based in Perth, Western Australia 
+* ✉️  You can contact me at [ruan.alberts@outlook.com](mailto:ruan.alberts@outlook.com) 
+* 🧠  I'm learning Full Stack Web Development
 
 <a href="https://www.github.com/dvdeez" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dvdeez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
