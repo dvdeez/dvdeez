@@ -5,7 +5,7 @@ Computer Science Student
 My name is Ruan and I'm a student at the University of Western Australia, completing a Bachelors of Advanced Computer Science. I'm majoring in Artificial Intelligence and have recently begun exploring web development through The Odin project. I'm continuing to build my portfolio in both areas of webdev and AI.  
 * 🌍  I'm based in Perth, Western Australia 
 * ✉️  You can contact me at [ruan.alberts@outlook.com](mailto:ruan.alberts@outlook.com) 
-* <b>🧠 I'm learning: </b> 
+* <b>🧠 I'm currently learning: </b> 
 * <a href="https://www.theodinproject.com">Full Stack Web Development</a>
 * <a href="https://handbooks.uwa.edu.au/unitdetails?code=PHIL2008">The Philosophy of AI</a>
 * <a href="https://handbooks.uwa.edu.au/unitdetails?code=CITS2402">Data Science</a>
